@@ -1,0 +1,29 @@
+{
+  "name": "web-present",
+  "version": "1.0.0",
+  "description": "A responsive website using css grid",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d forge"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruze-dev/Web-Present.git"
+  },
+  "keywords": [
+    "Responsiv",
+    "Website",
+    "CSS",
+    "Grid",
+    "Mobile"
+  ],
+  "author": "KruzDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kruze-dev/Web-Present/issues"
+  },
+  "homepage": "https://github.com/kruze-dev/Web-Present#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
